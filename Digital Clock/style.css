@@ -1,0 +1,13 @@
+body{
+  background: linear-gradient(to right, #2fd,#89fd);
+}
+.clock{
+position: absolute;
+top: 35%;
+left: 50%;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font-size: 6vw;
+letter-spacing:  0.8vw;
+transform: translateX(-50%) translateY(-50%);
+color:indigo;
+}
